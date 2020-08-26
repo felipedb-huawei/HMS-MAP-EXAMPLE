@@ -15,7 +15,7 @@ androidsdkpath=/users/felipe/library/developer/xamarin/android-sdk-macosx/
 androidndkpath=
 javasdkpath=/users/felipe/library/developer/xamarin/jdk/microsoft_dist_openjdk_1.8.0.25/
 androidsequencepointsmode=none
-xamarinandroidversion=11.0.99-9
+xamarinandroidversion=11.0.99-34
 monosymbolarchive=false
 androiduselatestplatformsdk=false
 targetframeworkversion=v9.0
@@ -24,7 +24,7 @@ androidgeneratejnimarshalmethods=false
 os=unix
 androidincludedebugsymbols=true
 androidpackagenamingpolicy=lowercasecrc64
-_nugetassetstimestamp=637339856218934889
+_nugetassetstimestamp=637340128605844335
 typemapkind=strings-asm
 androidsupportedabis=armeabi-v7a
 arm64-v8a
